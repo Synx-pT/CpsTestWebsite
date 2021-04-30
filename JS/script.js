@@ -11,7 +11,6 @@ var gradient = "linear-gradient(330deg, rgba(184,174,238,1) 0%, rgba(233,148,213
 
 
 
-
 ////////////////////
 /////Cps Game///////
 ////////////////////
@@ -117,7 +116,3 @@ while (document.querySelector("#ClickArea").style.background == "black" || docum
 {
   document.querySelector("#ClickArea").style.backgroundImage = "none";
 }
-
-
-
-
